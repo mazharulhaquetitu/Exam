@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0px;
+}
+.banner{
+	 width: 100%;
+    background-color: beige;
+
+}
+.logo{
+	width: 25%;
+	float: left;;
+
+}
+.menu{
+	width: 75%;
+	float: left;
+
+}
+.banner-one{
+
+}
+.banner-one ul{
+	direction: none;
+	
+}
